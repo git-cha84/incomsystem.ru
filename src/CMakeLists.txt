@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+
+add_subdirectory(global_config)
+add_subdirectory(postgresql_clients)
+add_subdirectory(postgresql_proxy_server)
